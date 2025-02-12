@@ -40,3 +40,11 @@
 ## Referencias
 
 ## Autores
+
+![D.S.R](https://github.com/JohnDSil/PlanDeSostenibilidadDeUnaEmpresa)
+
+![I.B.L](https://github.com/IvanBL8/PlanDeSostenibilidadDeUnaEmpresa)
+
+![G.C.R](https://github.com/Guille98-ASIR/PlanDeSostenibilidadDeUnaEmpresa)
+
+
