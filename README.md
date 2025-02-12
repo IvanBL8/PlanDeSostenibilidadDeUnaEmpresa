@@ -41,6 +41,9 @@
 
 ![IBM](https://www.ibm.com/es-es/topics/business-sustainability)
 
+![Pacto Mundial](https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/)
+
+
 ## Autores
 
 
