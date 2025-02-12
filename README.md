@@ -1,7 +1,7 @@
-## Plan De Sostenibilidad De Una Empresa
+# Plan De Sostenibilidad De Una Empresa
 
 
-# Índice
+## Índice
 
 ## 1.- Introducción al análisis de sostenibilidad
 
