@@ -16,7 +16,11 @@ Evalúan el impacto de la empresa en el medio ambiente
 
 
 ✔ Uso de recursos : Consumo de agua, energía y materiales.
+
+
 ✔ Emisiones : CO2, gases de efecto invernadero, huella de carbono.
+
+
 ✔ Reciclaje : Gestión de residuos, economía circular.
 
 
@@ -27,7 +31,11 @@ Analizan cómo la empresa impacta en la sociedad.
 
 
 ✔ Condiciones laborales : Salarios justos, seguridad y bienestar.
+
+
 ✔ Derechos humanos : No explotación infantil, igualdad de oportunidades.
+
+
 ✔ Impacto social : Apoyo a comunidades, diversidad e inclusión.
 
 
@@ -36,6 +44,10 @@ Analizan cómo la empresa impacta en la sociedad.
 Miden la ética y transparencia en la gestión empresarial.
 
 ✔ Transparencia : Reportes financieros claros y accesibles.
+
+
 ✔ Ética empresarial : Prevención de corrupción, código de conducta.
+
+
 ✔ Cumplimiento normativo : Seguir leyes y regulaciones internacionales.
 
