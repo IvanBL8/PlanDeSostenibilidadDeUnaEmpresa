@@ -15,7 +15,7 @@ Todo parte de un sistema de valores y un enfoque de principios. Ayuda a proyecta
 
 
  
- **Relación entre Sostenibilidad, Rentabilidad y Reputación Empresarial**
+ ## Relación entre Sostenibilidad, Rentabilidad y Reputación Empresarial
 
 
 
