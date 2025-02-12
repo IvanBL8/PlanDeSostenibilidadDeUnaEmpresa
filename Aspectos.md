@@ -86,4 +86,87 @@ Para ello debemos definir objetivos claros y medibles a la vez que usar metodolo
 ✔Capacitación a empleados sobre buenas prácticas sostenibles
 
 
-✔Alianzas con proveedores y clientes comprometidos con la sostenibilidad.
+✔Alianzas con proveedores y clientes comprometidos con la sostenibilidad
+
+
+## Ejemplos de Indicadores para Medir la Sostenibilidad Empresarial
+
+
+ **Indicadores Ambientales**
+
+
+✔ Huella de Carbono Total  : Toneladas de CO₂ equivalente emitidas por la empresa
+
+
+✔ Reducción de CO₂ :  Comparación anual de emisiones evitadas con medidas sostenibles
+
+
+✔ Emisiones de Alcance:  Clasificación de emisiones directas e indirectas
+
+
+✔ Intensidad de Carbono: Emisiones en relación con ingresos o producción
+
+
+ Ejemplo: Google mide sus emisiones y busca ser carbono neutral eliminando más CO₂ del que emite
+
+
+**Consumo de Energía**
+
+
+✔ Consumo total de energía
+
+✔ Porcentaje de Energía Renovable : Cuánta de la energía proviene de fuentes limpias
+
+
+✔ Eficiencia energética : Medición del uso de energía por proceso o trabajador
+
+
+Ejemplo: Apple usa 100% energía renovable en sus oficinas y fábricas
+
+
+**Reciclaje y Residuos**
+
+
+✔ Tasa de reciclaje : Porcentaje de residuos reciclados en comparación con el total generado
+
+
+✔ Reducción de residuos : Disminución de desechos producidos en un período determinado
+
+
+✔ Uso de materiales reciclados : Cuánto de ello proviene de materiales reutilizados
+
+
+Ejemplo: Tesla recicla baterías de litio para reducir la minería de materiales nuevos
+
+
+**Indicadores Sociales**
+
+✔ Índice de Diversidad e Inclusión
+
+
+✔ Tasa de retención de empleados
+
+
+✔ Número de horas de capacitación por empleado : Desarrollo profesional interno
+
+
+✔ Inversión en programas sociales : Recursos destinados a impacto comunitario
+
+
+
+Ejemplo: Starbucks invierte en el bienestar de agricultores mediante comercio justo.
+
+
+**Indicadores de Gobernanza**
+
+
+✔ Número de auditorías de cumplimiento realizadas : Verificación de estándares ambientales y éticos
+
+
+✔ Transparencia en reportes ASG  : Nivel de divulgación de datos sobre sostenibilidad
+
+
+✔ Número de denuncias por malas prácticas : Casos de corrupción o ética empresarial
+
+
+Ejemplo: Microsoft publica anualmente sus avances en sostenibilidad y gobernanza
