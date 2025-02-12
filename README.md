@@ -1,4 +1,4 @@
-# Plan De Sostenibilidad De Una Empresa
+## Plan De Sostenibilidad De Una Empresa
 
 
 # Índice
