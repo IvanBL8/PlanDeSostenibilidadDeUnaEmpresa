@@ -9,13 +9,13 @@
 
 **Relación entre sostenibilidad, rentabilidad y reputación empresarial**
 
-## 2.- Grupos de interés
+## [2.- Grupos de interés](GruposInteres.md)
 
 **Identificación de los principales grupos de interés de una empresa (empleados, clientes, accionistas, reguladores, sociedad)**
 
 **¿Cómo influyen estos grupos en las decisiones de sostenibilidad de la empresa?**
 
-## 3.- Aspectos ASG materiales (Ambientales, Sociales y de Gobernanza)
+## 3.- [Aspectos ASG materiales (Ambientales, Sociales y de Gobernanza)](Aspectos.md)
 
 **Explicación de los tres pilares ASG:**
 
@@ -31,10 +31,10 @@
 
 **Ejemplos de indicadores para medir la sostenibilidad empresarial (emisiones de CO₂, consumo de energía, reciclaje)**
 
-## Mapa conceptual
+## [Mapa conceptual](Mapa.md)
 
 
-## Glosario (Plan de sostenibilidad, Grupos de interés (stakeholders), Aspectos ASG (Ambientales, Sociales y de Gobernanza), Indicadores de sostenibilidad, Emisiones de CO₂, Transparencia empresarial, Ética empresarial, Cumplimiento normativo)
+## [Glosario (Plan de sostenibilidad, Grupos de interés (stakeholders), Aspectos ASG (Ambientales, Sociales y de Gobernanza), Indicadores de sostenibilidad, Emisiones de CO₂, Transparencia empresarial, Ética empresarial, Cumplimiento normativo)](Glosario.md)
 
 
 ## Referencias
