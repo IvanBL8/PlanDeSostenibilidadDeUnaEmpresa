@@ -27,7 +27,7 @@ Evalúan el impacto de la empresa en el medio ambiente
 **Sociales**
 
 
-Analizan cómo la empresa impacta en la sociedad.
+Analizan cómo la empresa impacta en la sociedad
 
 
 ✔ Condiciones laborales : Salarios justos, seguridad y bienestar.
@@ -41,7 +41,9 @@ Analizan cómo la empresa impacta en la sociedad.
 
 **Gobernanza**
 
-Miden la ética y transparencia en la gestión empresarial.
+
+Miden la ética y transparencia en la gestión empresarial
+
 
 ✔ Transparencia : Reportes financieros claros y accesibles.
 
