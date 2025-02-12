@@ -1,6 +1,11 @@
 # Introducción al Análisis de Sostenibilidad
 
 
+
+<div align="center">
+  <img src="img/intro.jpeg" alt="si" />
+</div>
+
 Un plan de sostenibilidad es una estrategia empresarial diseñada para minimizar el impacto ambiental, se refiere a la estrategia y las acciones de una empresa para reducir los
 impactos ambientales y sociales adversos resultantes de las operaciones comerciales en un mercado particular. 
 Las prácticas de sostenibilidad de una organización suelen analizarse en función de métricas medioambientales, sociales y de gobierno 
@@ -18,6 +23,10 @@ Todo parte de un sistema de valores y un enfoque de principios. Ayuda a proyecta
  ## Relación entre Sostenibilidad, Rentabilidad y Reputación Empresarial
 
 
+
+<div align="center">
+  <img src="img/intro.gif" alt="si" />
+</div>
 
 **Sostenibilidad**
 
