@@ -51,3 +51,39 @@ Miden la ética y transparencia en la gestión empresarial.
 
 ✔ Cumplimiento normativo : Seguir leyes y regulaciones internacionales.
 
+
+## Acciones Sostenibles
+
+Para lograr un impacto real en la sostenibilidad empresarial, es clave diseñar estrategias efectivas y medir sus resultados.
+Para ello debemos definir objetivos claros y medibles a la vez que usar metodologías como SMART (Específicos, Medibles, Alcanzables, Relevantes y con un Tiempo definido)
+
+ **Implementar Estrategias de Reducción de Impacto es clave para lograr esta meta:**
+
+✔ Uso de energías renovables
+
+
+✔ Optimización del consumo de agua y electricidad
+
+
+✔ Fomento del reciclaje y reducción de residuos
+
+
+  **Las Acciones Sociales, las personas es lo que más importa:**
+
+  
+✔ Mejora de condiciones laborales y bienestar de los empleados
+
+
+✔ Inclusión y diversidad en el equipo de trabajo
+
+
+✔ Desarrollo de programas de impacto comunitario
+
+
+✔ Fomentar una Cultura de Sostenibilidad
+
+
+✔Capacitación a empleados sobre buenas prácticas sostenibles
+
+
+✔Alianzas con proveedores y clientes comprometidos con la sostenibilidad.
