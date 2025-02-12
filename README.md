@@ -39,7 +39,7 @@
 
 ## Referencias
 
-![https://www.ibm.com/es-es/topics/business-sustainability](IBM)
+!(IBM)[https://www.ibm.com/es-es/topics/business-sustainability]
 
 ## Autores
 
