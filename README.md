@@ -1,5 +1,9 @@
 # Plan De Sostenibilidad De Una Empresa
 
+<div align="center">
+  <img src="img/si.gif" alt="si" />
+</div>
+
 
 ## Índice
 
