@@ -30,4 +30,4 @@
   ### Directivos: 
   Gestionan la empresa y buscan buenos ingresos, autonomía en la toma de decisiones y reconocimiento profesion.
 
-¿Cómo influyen estos grupos en las decisiones de sostenibilidad de la empresa?
+# ¿Cómo influyen estos grupos en las decisiones de sostenibilidad de la empresa?
