@@ -43,6 +43,7 @@
 
 ![Pacto Mundial](https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/)
 
+![ChatGPT](https://chatgpt.com/)
 
 ## Autores
 
