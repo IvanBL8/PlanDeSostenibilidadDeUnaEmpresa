@@ -15,7 +15,7 @@
 
 **¿Cómo influyen estos grupos en las decisiones de sostenibilidad de la empresa?**
 
-## 3.- [Aspectos ASG materiales (Ambientales, Sociales y de Gobernanza)](Aspectos.md)
+## [3.- Aspectos ASG materiales (Ambientales, Sociales y de Gobernanza)](Aspectos.md)
 
 **Explicación de los tres pilares ASG:**
 
