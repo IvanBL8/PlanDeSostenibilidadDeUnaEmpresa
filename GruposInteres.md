@@ -1,6 +1,6 @@
 # 2.- Grupos de interés
 
-## Identificación de los principales grupos de interés de una empresa (empleados, clientes, accionistas, reguladores, sociedad)
+# Identificación de los principales grupos de interés de una empresa (empleados, clientes, accionistas, reguladores, sociedad)
 
 ## Los principales grupos de interés (stakeholders) de una empresa son:
 
@@ -30,4 +30,4 @@
   ### Directivos: 
   Gestionan la empresa y buscan buenos ingresos, autonomía en la toma de decisiones y reconocimiento profesion.
 
-## ¿Cómo influyen estos grupos en las decisiones de sostenibilidad de la empresa?
+# ¿Cómo influyen estos grupos en las decisiones de sostenibilidad de la empresa?
