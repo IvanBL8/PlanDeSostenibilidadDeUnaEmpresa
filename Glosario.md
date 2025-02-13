@@ -9,7 +9,7 @@ Personas o entidades que pueden verse afectadas o influir en las actividades de 
 ### Aspectos ASG (Ambientales, Sociales y de Gobernanza): 
 Criterios que evalúan el desempeño de una organización en términos de impacto ambiental, responsabilidad social y calidad de su gestión empresarial.
 
-###Indicadores de sostenibilidad: 
+### Indicadores de sostenibilidad: 
 Métricas utilizadas para medir el desempeño de una organización en términos ambientales, sociales y de gobernanza, como huella de carbono, equidad salarial o cumplimiento normativo.
 
 ### Emisiones de CO₂: 
