@@ -45,6 +45,10 @@
 
 ![ChatGPT](https://chatgpt.com/)
 
+![HubSpot](https://blog.hubspot.es/sales/que-es-stakeholder)
+
+![Perplexity](https://www.perplexity.ai/)
+
 ## Autores
 
 
