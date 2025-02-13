@@ -31,7 +31,7 @@
   Gestionan la empresa y buscan buenos ingresos, autonomía en la toma de decisiones y reconocimiento profesion.
 
 <div align="center">
-  <img src="img/stake.jpeg" alt="si" />
+  <img src="img/stake.jpg" alt="si" />
 </div>
 
 # ¿Cómo influyen estos grupos en las decisiones de sostenibilidad de la empresa?
