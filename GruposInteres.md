@@ -30,6 +30,8 @@
   ### Directivos: 
   Gestionan la empresa y buscan buenos ingresos, autonomía en la toma de decisiones y reconocimiento profesion.
 
+[stake](/img/stake.jgp)
+
 # ¿Cómo influyen estos grupos en las decisiones de sostenibilidad de la empresa?
 
 ## Los stakeholders influyen significativamente en las decisiones de sostenibilidad de las empresas de diversas maneras:
