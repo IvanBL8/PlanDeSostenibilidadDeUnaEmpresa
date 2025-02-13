@@ -1,5 +1,9 @@
 # Plan De Sostenibilidad De Una Empresa
 
+<div align="center">
+  <img src="img/si.gif" alt="si" />
+</div>
+
 
 ## Índice
 
@@ -15,7 +19,7 @@
 
 **¿Cómo influyen estos grupos en las decisiones de sostenibilidad de la empresa?**
 
-## 3.- [Aspectos ASG materiales (Ambientales, Sociales y de Gobernanza)](Aspectos.md)
+## [3.- Aspectos ASG materiales (Ambientales, Sociales y de Gobernanza)](Aspectos.md)
 
 **Explicación de los tres pilares ASG:**
 
@@ -43,6 +47,11 @@
 
 ![Pacto Mundial](https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/)
 
+![ChatGPT](https://chatgpt.com/)
+
+![HubSpot](https://blog.hubspot.es/sales/que-es-stakeholder)
+
+![Perplexity](https://www.perplexity.ai/)
 
 ## Autores
 
